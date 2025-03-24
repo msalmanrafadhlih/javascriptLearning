@@ -6,6 +6,6 @@
     <ul>
         <li><a href="https://github.com/msalmanrafadhlih/learn-basic-javascript/blob/main/Pyramid.js">Building a Basic Pyramid</li>
         <li><a href="https://github.com/msalmanrafadhlih/learn-basic-javascript/blob/main/passingGrade.js">Passing Grade</li>
-        <li><a href="">Comming Soon. . . </li>
+        <li><a href="">Coming Soon . .</li>
     </ul>
 </details>
