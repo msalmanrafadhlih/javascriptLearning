@@ -9,6 +9,7 @@
         <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Role%20Playing%20Game/rolePlaying.js">Role Playing Game</li>
         <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Random%20Color%20Changer/colorChanger.js">Background Color Changer</li>
         <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Calorie%20Counter/calorieCounter.js">Calorie Counter</li>
+        <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Rock%20Paper%20Scissors/RPSgame.js">Rock, Paper, Scissors</li>
         <li><a href="">Coming Soon . .</li>
     </ul>
 </details>
