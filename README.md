@@ -2,7 +2,7 @@
 *This is all my recap courses from freeCodeCamp*
 
 <details open>
-    <h2 align="left">Study 1</h2>
+    <h2 align="left"> Study 1</h2>
     <ul>
         <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/pyramid.js">Building a Basic Pyramid</li>
         <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/passingGrade.js">Passing Grade</li>
@@ -12,6 +12,13 @@
         <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Rock%20Paper%20Scissors/RPSgame.js">Rock, Paper, Scissors</li>
         <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Music%20Player/musicPlayer.js">Music Player</li>
         <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Palindrome%20Checker/palindrome.js">Palindrome Checker</li>
+    </ul>
+</details>
+
+<details>
+    <h2 align="left"> Study 2</h2>
+    <ul>
+        <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Date%20Formatter/dateFormatter.js">Date Formatter</li>
         <li><a href="">Coming Soon . .</li>
     </ul>
 </details>
