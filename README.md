@@ -6,19 +6,16 @@
     <ul>
         <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/pyramid.js">Building a Basic Pyramid</li>
         <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/passingGrade.js">Passing Grade</li>
-        <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Role%20Playing%20Game/rolePlaying.js">Role Playing Game</li>
-        <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Random%20Color%20Changer/colorChanger.js">Background Color Changer</li>
-        <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Calorie%20Counter/calorieCounter.js">Calorie Counter</li>
-        <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Rock%20Paper%20Scissors/RPSgame.js">Rock, Paper, Scissors</li>
-        <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Music%20Player/musicPlayer.js">Music Player</li>
-        <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Palindrome%20Checker/palindrome.js">Palindrome Checker</li>
+        <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Role%20Playing%20Game/RPG.png">Role Playing Game</li>
+        <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Random%20Color%20Changer/gallery.gif">Background Color Changer</li>
+        <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Calorie%20Counter/calorieCounter.gif">Calorie Counter</li>
+        <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Rock%20Paper%20Scissors/RPSgame.png">Rock, Paper, Scissors</li>
+        <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Music%20Player/musicPlayer.png">Music Player</li>
+        <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Palindrome%20Checker/Palindrome.png">Palindrome Checker</li>
     </ul>
-</details>
-
-<details>
     <h2 align="left"> Study 2</h2>
     <ul>
-        <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Date%20Formatter/dateFormatter.js">Date Formatter</li>
+        <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Date%20Formatter/dateFormatter.png">Date Formatter</li>
         <li><a href="">Coming Soon . .</li>
     </ul>
 </details>
