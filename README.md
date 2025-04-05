@@ -16,6 +16,7 @@
     <h2 align="left"> Study 2</h2>
     <ul>
         <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Date%20Formatter/dateFormatter.png">Date Formatter</li>
+        <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Football%20Team%20Cards/footballTeamCards.png">Football Team Cards</li>
         <li><a href="">Coming Soon . .</li>
     </ul>
 </details>
