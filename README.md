@@ -22,4 +22,9 @@
         <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Roman%20Numerals%20Converter/RomanNumerals.png">Roman Numerals Converter</li>
         <li><a href="">Coming Soon . .</li>
     </ul>
+    <h2 align="left"> Study 2</h2>
+    <ul>
+        <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Spam%20Filter/spamFilter.png">Spam Filters</li>
+        <li><a href="">Coming Soon . .</li>
+    </ul>
 </details>
