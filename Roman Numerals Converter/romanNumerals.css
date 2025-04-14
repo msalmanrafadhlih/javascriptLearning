@@ -1,0 +1,107 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    min-height: 100vh;
+    background-color: #1b1b32;
+    padding: 50px 20px;
+    font-family: 'Lato', Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    color: #f5f6f7;
+  }
+  
+  main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .freeCodeCamp-logo {
+    height: 30px;
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    margin: 20px auto;
+    max-width: 350px;
+    font-family: 'Castoro Titling', cursive;
+  }
+  
+  form { 
+    padding: 25px;
+    color: #f5f6f7;
+    margin: auto 25px;
+    border: 3px solid #f5f6f7;
+    text-align: center;
+    width: 90%;
+    max-width: 500px;
+    background-color: #3b3b4f;
+  }
+  
+  fieldset {
+    border: 0 none;
+    height: 100%;
+    padding: 25px;
+    margin: 10px 20px;
+  }
+  
+  legend {
+    display: inline-block;
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  input {
+    background-color: black;
+    border: 1px solid #f5f6f7;
+    display: block;
+    font-size: 2.5rem;
+    width: 100%;
+    text-align: center;
+    height: 60px;
+    padding: 6px 12px; 
+    margin: 10px 0;
+    line-height: 1.4;
+    color: #f5f6f7;
+  }
+  
+  input[type=number]::-webkit-outer-spin-button,
+  input[type=number]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  
+  fieldset > button {
+    height: 60px;
+    text-decoration: none;
+    padding: 10px 16px;
+    font-size: 2rem;
+    margin-top: 20px;
+    cursor: pointer;
+    background-image: linear-gradient(#fecc4d, #ffac33);
+    border: 3px solid #feac32;
+    width: 100%;
+  }
+  
+  .output {
+    padding: 20px;
+    height: 100%;
+    text-align: center;
+    width: 90%;
+    max-width: 500px;
+    margin: 5vh;
+    border: 3px solid #f5f6f7;
+    background-color: #3b3b4f;
+    font-size: 2.5rem;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
