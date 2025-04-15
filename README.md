@@ -25,6 +25,7 @@
     <h2 align="left"> Study 2</h2>
     <ul>
         <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Spam%20Filter/spamFilter.png">Spam Filters</li>
+        <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Number%20Sorting/numberSorting.png">Number Sorting</li>
         <li><a href="">Coming Soon . .</li>
     </ul>
 </details>
