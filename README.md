@@ -26,6 +26,7 @@
     <ul>
         <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Spam%20Filter/spamFilter.png">Spam Filters</li>
         <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Number%20Sorting/numberSorting.png">Number Sorting</li>
+        <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Statistic%20Calculator/statisticCalculator.png">Statistic Calculator</li>
         <li><a href="">Coming Soon . .</li>
     </ul>
 </details>
