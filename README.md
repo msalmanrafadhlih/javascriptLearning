@@ -28,6 +28,7 @@
         <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Number%20Sorting/numberSorting.png">Number Sorting</li>
         <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Statistic%20Calculator/statisticCalculator.png">Statistic Calculator</li>
         <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Spreadsheet/spreadsheet.png">Spreadsheet</li>
+        <li><a href="https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Dice%20Game/diceGame.png">Dice Game</li>
         <li><a href="">Coming Soon . .</li>
     </ul>
 </details>
