@@ -47,4 +47,5 @@
 | No. | Title Project | Description |
 | --- | ------------- | ----------- |
 | 1 | [fCC Authors page](https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Author%20Page/authorsPage.png) | Learn Fetch & Promise by building a fCC Authors Page |
+| 1 | [fCC Forum Leaderboard](https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Forum%20Topics/forumTopics.png) | Learn Asynchronous Programming by building an fCC Forum Leaderboard |
 | 2 | [Comming Soon]() | |
