@@ -38,8 +38,9 @@
 
 | No. | Title Project | Description |
 | --- | ------------- | ----------- |
-| 1 | [Dice Game](https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Dice%20Game/diceGame.png) | review Algorithmic Thinking by building a Dice Game |
-| 2 | [Comming Soon]() | |
+| 1 | [Shopping Cart](https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Shopping%20Cart/shoppingCart.png) | Learn Basic OOP by Building a Shopping Cart |
+| 2 | [Dice Game](https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Dice%20Game/diceGame.png) | review Algorithmic Thinking by building a Dice Game |
+| 3 | [Comming Soon]() | |
 
 
 ## Studi 5
