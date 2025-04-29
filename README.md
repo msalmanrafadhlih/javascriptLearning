@@ -39,6 +39,7 @@
 | No. | Title Project | Description |
 | --- | ------------- | ----------- |
 | 1 | [Shopping Cart](https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Shopping%20Cart/shoppingCart.png) | Learn Basic OOP by Building a Shopping Cart |
+| 1 | [Platform Game](https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Platform%20Game/platformGame.png) | Learn Intermediate OOP by Building a Platformer Game |
 | 2 | [Dice Game](https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Dice%20Game/diceGame.png) | review Algorithmic Thinking by building a Dice Game |
 | 3 | [Comming Soon]() | |
 
