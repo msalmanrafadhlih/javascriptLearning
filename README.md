@@ -32,16 +32,16 @@
 | 2 | [Number Sorter](https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Number%20Sorting/numberSorting.png) | Learn Basic Algorithmic Thinking |
 | 3 | [Statistics Calculator](https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Statistic%20Calculator/statisticCalculator.png) | Learn Advance Array Methods |
 | 4 | [Spreadsheet](https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Spreadsheet/spreadsheet.png) | Learn Functional Programming by building a Spreadsheet |
-| Final Project | [Telephone Number Validator]() | Build a Telephone Number Validator |
+| Final Project | [Telephone Number Validator](https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Telephone%20Number%20Validator/NumberValidator.png) | Build a Telephone Number Validator |
 
 ## Studi 4
 
 | No. | Title Project | Description |
 | --- | ------------- | ----------- |
 | 1 | [Shopping Cart](https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Shopping%20Cart/shoppingCart.png) | Learn Basic OOP by Building a Shopping Cart |
-| 1 | [Platform Game](https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Platform%20Game/platformGame.png) | Learn Intermediate OOP by Building a Platformer Game |
-| 2 | [Dice Game](https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Dice%20Game/diceGame.png) | review Algorithmic Thinking by building a Dice Game |
-| 3 | [Comming Soon]() | |
+| 2 | [Platform Game](https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Platform%20Game/platformGame.png) | Learn Intermediate OOP by Building a Platformer Game |
+| 3 | [Dice Game](https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Dice%20Game/diceGame.png) | review Algorithmic Thinking by building a Dice Game |
+| Final Project | [Cash Register](https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Cash%20Register/cashRegister.png) | Build A Cash Register |
 
 
 ## Studi 5
