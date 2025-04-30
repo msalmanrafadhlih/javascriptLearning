@@ -50,4 +50,4 @@
 | --- | ------------- | ----------- |
 | 1 | [fCC Authors page](https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Authors%20Page/authorsPage.png) | Learn Fetch & Promise by building a fCC Authors Page |
 | 2 | [fCC Forum Leaderboard](https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Forum%20Topics/forumTopics.png) | Learn Asynchronous Programming by building an fCC Forum Leaderboard |
-| Final Project | [RPG Creatures Search](https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/RPG%20Creatures%20%20Search%20App/creatureSearch.png) | Build a RPG Creature Search App Project |
+| Final Project | [RPG Creatures Search](https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/RPG%20Creatures%20Search%20App/creatureSearch.png) | Build a RPG Creature Search App Project |
