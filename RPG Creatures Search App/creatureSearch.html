@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Basic Layout</title>
+  <link rel="stylesheet" href="/RPG Creatures Search App/creatureSearch.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+
+</head>
+<body>
+
+  <header id="header">
+    <h1>👾 Creature Search App<h1>
+  </header>
+
+  <main>
+    <div id="container">
+            <details id="details">
+              <summary id="summary">Creature Search App (Click for explanation)</summary>
+              <p>This app allows the user to search for the creature's name and ID to retrive the creature's data. (Available ID: 1 - 20)</p>
+            </details> 
+      <form id="search-form">
+        <label for="search-input">Search for creature name or ID:</label>
+        <div id="search-group">
+        <input id="search-input" type="text" name="creature" required></input>
+        <button id="search-button">Search</button>
+        </div>
+      </form>
+      
+      <div class="output">
+      <div class="top-container">
+        <div id="name-and-id">
+          <span id="creature-name"></span>
+          <span id="creature-id"></span>
+        </div>
+        <div id="size">
+          <span id="weight"></span>
+          <span id="height"><span>
+        </div>
+        <div id="types">
+        </div>
+        <div id="special">
+          <p id="special-name"></p>
+          <p id="special-description"></p>
+        </div>
+      </div>
+      <div class="bottom-container">
+        <table>
+          <tbody>
+            <tr>
+              <th>Base</th>
+              <th>Stats</th>
+            </tr>
+            <tr>
+              <td>HP:</td>
+              <td id="hp"></td>
+            </tr>
+            <tr>
+              <td>Attack:</td>
+              <td id="attack"></td> 
+            </tr>
+            <tr>
+              <td>Defense:</td>
+              <td id="defense"></td>
+            </tr>
+            <tr>
+              <td>Special Attack:</td>
+              <td id="special-attack"></td>
+            </tr>
+            <tr>
+              <td>Special Defense:</td>
+              <td id="special-defense"></td>
+            </tr>
+            <tr>
+              <td>Speed:</td>
+              <td id="speed"></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    </div>
+    
+  </main>
+  <script src="/RPG Creatures Search App/creatureSearch.js"></script>
+</body>
+</html>

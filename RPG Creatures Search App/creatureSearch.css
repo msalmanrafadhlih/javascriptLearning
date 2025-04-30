@@ -1,0 +1,156 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    font-size: 16px;
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+  
+  header {
+    text-align: center;
+    padding: 40px 0;
+    background-color: #2b2d42;
+    color: #fff;
+  }
+  
+  header h1 {
+    font-size: 2rem;
+    margin-bottom: 0;
+  }
+  
+  main {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  #container {
+    background-color: #fff;
+    border-radius: 12px;
+    padding: 30px;
+    width: 100%;
+    max-width: 700px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  #details {
+    margin-bottom: 20px;
+  }
+  
+  #summary {
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  form {
+    margin-bottom: 25px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  #search-group {
+    display: flex;
+    gap: 10px;
+  }
+  
+  input[type="text"] {
+    padding: 10px;
+    flex: 1;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 1rem;
+  }
+  
+  #search-button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #2b2d42;
+    color: #fff;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background 0.2s;
+  }
+  
+  #search-button:hover {
+    background-color: #1f2233;
+  }
+  
+  .output {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  #name-and-id, #size {
+    display: flex;
+    gap: 15px;
+    font-size: 1.1rem;
+    font-weight: 600;
+  }
+  
+  #types {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 5px;
+  }
+  
+  .types-list {
+    background-color: #e0e0e0;
+    padding: 4px 10px;
+    border-radius: 5px;
+    font-size: 0.9rem;
+    color: #444;
+  }
+  
+  #special-name {
+    font-weight: bold;
+    font-size: 1.1rem;
+  }
+  
+  #special-description {
+    font-size: 0.95rem;
+    color: #555;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  th {
+    background-color: #f0f0f0;
+    font-weight: 600;
+  }
+  
+  td {
+    background-color: #fff;
+  }
+  
+  
+  @media (max-width: 600px) {
+    #search-group {
+      flex-direction: column;
+    }
+  
+    #name-and-id, #size {
+      flex-direction: column;
+    }
+  }
+  
