@@ -1,0 +1,30 @@
+name: Auto & Manual Update
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 */2 * *'
+  workflow_dispatch:
+    
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🎏 Fetch repo
+        uses: actions/checkout@master
+
+      - name: 🚀 Deploy
+        run: |
+          git config --global user.name "${{ secrets.USERNAME }}"
+          git config --global user.email "${{ secrets.EMAIL_ADDRESS }}"
+        
+      - name: Pull and Push Updates
+        run: |
+          git pull origin main
+          git push origin main
+
+
