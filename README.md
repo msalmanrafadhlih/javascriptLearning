@@ -48,7 +48,7 @@
 
 | No. | Title Project | Description | Demo |
 | --- | ------------- | ----------- | ---- |
-| 1 | [fCC Authors page](https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Authors%20Page/authorsPage.png) | Learn Fetch & Promise by building a fCC Authors Page | [Link](https://msalmanrafadhlih.github.io/javascriptLearning/Authors%20Page/authorsPages.html)
-| 2 | [fCC Forum Topics](https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Forum%20Topics/forumTopics.png) | Learn Asynchronous Programming by building an fCC Forum Leaderboard | [Link](https://msalmanrafadhlih.github.io/javascriptLearning/Forum%20Topics/forumTopics.html)
-| Final Project | [RPG Creatures Search](https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/RPG%20Creatures%20Search%20App/creatureSearch.png) | Build a RPG Creature Search App Project | [Link](https://msalmanrafadhlih.github.io/javascriptLearning/RPG%20Creatures%20Search%20App/creatureSearch.html)
+| 1 | [fCC Authors page](https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Authors%20Page/authorsPage.png) | Learn Fetch & Promise by building a fCC Authors Page | [Link](https://msalmanrafadhlih.github.io/javascriptLearning/Authors%20Page/authorsPages.html) |
+| 2 | [fCC Forum Topics](https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/Forum%20Topics/forumTopics.png) | Learn Asynchronous Programming by building an fCC Forum Leaderboard | [Link](https://msalmanrafadhlih.github.io/javascriptLearning/Forum%20Topics/forumTopics.html) |
+| Final Project | [RPG Creatures Search](https://github.com/msalmanrafadhlih/javascriptLearning/blob/main/RPG%20Creatures%20Search%20App/creatureSearch.png) | Build a RPG Creature Search App Project | [Link](https://msalmanrafadhlih.github.io/javascriptLearning/RPG%20Creatures%20Search%20App/creatureSearch.html) |
 
